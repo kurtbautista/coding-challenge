@@ -1,0 +1,15 @@
+.navigationContainer {
+  width: 100%;
+  text-align: right;
+  ul {
+    li {
+      display: inline-block;
+      font-size: 13px;
+      padding: 5px 15px;
+      a {
+        font-size: 13px;
+        display: inline-block;
+      }
+    }
+  }
+}

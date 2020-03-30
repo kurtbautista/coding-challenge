@@ -1,0 +1,19 @@
+Use the guidelines below to run the program.
+
+Using Yarn:
+- Open terminal and go to this project directory '/whispir-exercise'.
+- Run the following command.
+- `yarn` - to install the dependencies
+- `yarn start` - to start the project.
+- `yarn test`- launches the test runner.
+
+Using NPM:
+- Open terminal and go to this project directory '/whispir-exercise'.
+- Run the following command.
+- `npm install` - to install the dependencies
+- `npm start` - to start the project.
+- `npm test`- launches the test runner.
+
+Requirements:
+- Install NodeJS https://nodejs.org/en/download/
+- Install Yarn https://classic.yarnpkg.com/en/docs/install/#windows-stable

@@ -1,0 +1,24 @@
+.caseStudyContainer {
+  width: 100%;
+}
+
+.thumbImg {
+  width: 100%;
+  max-width: 530px;
+  margin-bottom: 20px;
+}
+
+.item {
+  margin-bottom: 30px;
+  p {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  a {
+    color: #3852f7 !important;
+    font-family: Arial;
+    font-size: 11px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+}
